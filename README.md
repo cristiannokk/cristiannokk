@@ -4,7 +4,7 @@
 - ⚡ I graduated from the bootcamp SoyHenry.
 - 📫 How to reach me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianfernandez99/)](https://www.linkedin.com/in/cristianfernandez99/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiannokk.com)](mailto:cristiannokk@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiannokk.com)](mailto:cristiannokk@gmail.com)
 - 🔭 I’m currently working on an e-commerce with my team
 
 ```javascript
