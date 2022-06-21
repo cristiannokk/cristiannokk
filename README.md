@@ -8,6 +8,7 @@
   <a href="www.linkedin.com/in/cristianfernandez99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="cristian" height="45px" width="45px" /></a>
    <a href = "mailto: cristiannokk@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3781/3781615.png" height="50px" width="50px" /></a>
 </p>
+</p>
 
 <img align="right" width="200px" height="200px" alt="programmer" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
