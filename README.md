@@ -11,7 +11,7 @@
 </p>
 </p>
 
-<img align="right" width="200px" height="200px" alt="programmer" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" width="200px" height="200px" alt="programmer" src="https://media1.giphy.com/labs/images/api.gif" />
 
 **Sobre mi**
   
