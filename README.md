@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer from Mendoza, Argentina</h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/cristianfernandez99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="cris" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/cristianfernandez99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="cris" height="45px" width="45px" /></a>
    <a href = "mailto: cristiannokk@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3781/3781615.png" height="50px" width="50px" /></a>
 </p>
 </p>
