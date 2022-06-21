@@ -1,11 +1,12 @@
 <p align="center"> 
   <img width="40%" src= "https://raw.githubusercontent.com/cristiannokk/cristiannokk/main/Sin%20título-5.png" />
 </p>
+<hr>
 <h1 align="center"> Hola! Soy Cristian Fernandez <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">👨🏼‍💻</h1>
 <h3 align="center">Full-Stack Developer from Mendoza, Argentina</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/cristianfernandez99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="cristian" height="45px" width="45px" /></a>
+ <a href="https://www.linkedin.com/in/cristianfernandez99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="cris" height="30" width="40" /></a>
    <a href = "mailto: cristiannokk@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3781/3781615.png" height="50px" width="50px" /></a>
 </p>
 </p>
