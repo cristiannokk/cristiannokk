@@ -17,7 +17,7 @@
   
   ⚡ Me gradué del bootcamp SoyHenry.<br>
   🧠 Estoy interesado en aprender Unity y Unreal Engine.<br>
-  🤖 En mi tiempo libre me dedico a jugar video juegos, ver peliculas, series y estar con amigos.<br>
+  🤖 En mi tiempo libre me dedico a jugar video juegos, ver peliculas, series, estar con amigos y mi novia.<br>
   💬Consultame lo que necesites 😁.<br>
 
 **Lenguajes y herramientas que conozco...**
