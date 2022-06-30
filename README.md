@@ -40,7 +40,7 @@
  
  <b> Mis estadísticas de GitHub </b>
  <p width="70%" align="center">
- <a href="http://www.github.com/Matiaspp96"><img src="https://github-readme-stats.vercel.app/api?username=cristiannokk&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=nightowl" alt="cristainnokk's GitHub stats" /></a>
+ <a href="https://github.com/cristiannokk"><img src="https://github-readme-stats.vercel.app/api?username=cristiannokk&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=nightowl" alt="cristainnokk's GitHub stats" /></a>
 </p>
 <p width="70%" align="center" > 
 <a href="https://github.com/cristiannokk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannokk&layout=compact&langs_count=10&theme=nightowl&custom_title=Top%20%Languages" alt="Top Languages" /></a>
