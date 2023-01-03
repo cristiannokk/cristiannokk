@@ -16,8 +16,9 @@
 **Sobre mi**
   
   ⚡ Me gradué del bootcamp SoyHenry.<br>
+  💻 Trabajo como desarrollador Front-end.<br>
   🧠 Estoy interesado en aprender Unity y Unreal Engine.<br>
-  🤖 En mi tiempo libre me dedico a jugar video juegos, ver peliculas, series, estar con amigos y mi novia.<br>
+  🤖 En mi tiempo libre me dedico a jugar video juegos, ver peliculas, series y desarrollar alguno que otro proyecto.<br>
   💬Consultame lo que necesites 😁.<br>
 
 **Lenguajes y herramientas que conozco...**
