@@ -36,6 +36,7 @@
 <a href="https://nextjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nestjs" width="40" height="40"/>  </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://sequelize.org/](https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
  <hr>
  
