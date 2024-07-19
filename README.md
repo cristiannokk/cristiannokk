@@ -13,14 +13,6 @@
 
 <img align="right" width="200px" height="200px" alt="programmer" src="https://media1.giphy.com/labs/images/api.gif" />
 
-**Sobre mi**
-  
-  ⚡ Me gradué del bootcamp SoyHenry.<br>
-  💻 Trabajo como desarrollador Front-end.<br>
-  🧠 Estoy interesado en aprender Unity y Unreal Engine.<br>
-  🤖 En mi tiempo libre me dedico a jugar video juegos, ver peliculas, series y desarrollar alguno que otro proyecto.<br>
-  💬Consultame lo que necesites 😁.<br>
-
 **Lenguajes y herramientas que conozco...**
   <p align="left">
   
