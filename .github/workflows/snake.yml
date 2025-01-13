@@ -1,17 +1,14 @@
-### Snake Animation YAML Configuration
-
-```yaml
 name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *" # Corrige el cron para formato válido
 
-  workflow_dispatch:
+  workflow_dispatch: # Agregado correctamente como una clave principal
 
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -34,4 +31,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
