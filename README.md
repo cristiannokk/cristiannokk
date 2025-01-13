@@ -54,17 +54,3 @@
 
 ###
 
-<b>Mis mejores proyectos:</b>
-
-<div align="center">
-  <a href="https://github.com/cristiannokk/PF-04-Ecommerce">
-    <img width="296" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiannokk&repo=PF-04-Ecommerce&theme=nightowl" alt="ecommerce" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/cristiannokk/Pt04-PI-Pokemon">
-    <img width="296" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiannokk&repo=Pt04-PI-Pokemon&theme=nightowl" alt="pi-pokemon" />
-  </a>
-</div>
-<br />
