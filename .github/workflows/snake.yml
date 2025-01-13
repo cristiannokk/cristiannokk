@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *" # Corrige el cron para formato válido
+    - cron: "0 */24 * * *" # Corrige el cron para formato válido
 
   workflow_dispatch: # Agregado correctamente como una clave principal
 
