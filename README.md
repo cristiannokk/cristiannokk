@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cristian Fernández and I'm a Full-Stack Developer from Mendoza, Argentina</h2>
+<h2 align="left">Hi 👋! My name is Cristian Fernández and I'm a Front-End Developer from Mendoza, Argentina</h2>
 
 ###
 
