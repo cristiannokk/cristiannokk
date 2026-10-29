@@ -1,61 +1,106 @@
-<!-- Cyberpunk HUD Gamer README -->
+<!--
+  CRISTIAN FERNÁNDEZ — GAMING PROFILE / ZERO IMAGE DEPENDENCIES
+  Built with GitHub-native Markdown + plain HTML for alignment.
+  No images, external stats services, GIFs, workflows or local assets required.
+-->
+
+<h1 align="center">🎮 CRISTIAN.EXE</h1>
+<h2 align="center">Cristian Fernández</h2>
+<p align="center"><b>Frontend Engineer</b> · React / Next.js / TypeScript · Full-Stack Experience</p>
+<p align="center"><code>PLAYER 01</code> · <code>MENDOZA, ARGENTINA 🇦🇷</code> · <code>REMOTE-FRIENDLY</code></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cristiannokk/cristiannokk/main/Sin%20t%C3%ADtulo-5.png" height="150" alt="Cristian Avatar" />
-</p>
-
-<h1 align="center" style="color:#00f0ff; font-size:40px; font-weight:bold;">
-🕹️ Cristian Fernández 🚀
-</h1>
-<h3 align="center" style="color:#ff00ff; font-size:18px;">
-Front-End Developer | Mendoza, Argentina 🇦🇷
-</h3>
-
-
-
----
-
-<!-- HUD Panel para stats -->
-<div align="center" style="padding: 20px; border: 2px solid #00f0ff; border-radius: 10px; background: rgba(0,0,0,0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiannokk&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiannokk&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="165" />
-</div>
-
----
-
-<h3 align="center" style="color:#ff00ff;">⚡ Tech Arsenal ⚡</h3>
-<div align="center" style="padding: 10px; border: 2px solid #ff00ff; border-radius: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" />
-</div>
-
----
-
-<h3 align="center" style="color:#00f0ff;">📡 Connect with me 📡</h3>
-<div align="center" style="padding: 10px; border: 2px solid #00f0ff; border-radius: 10px;">
-  <a href="https://www.linkedin.com/in/cristianfernandez99" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="mailto:cristiannokk@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cristiannokk/cristiannokk/output/snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/cristianfernandez99/"><b>🔗 LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:cristiannokk@gmail.com"><b>✉️ Email</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/cristiannokk?tab=repositories"><b>🗂️ Repositories</b></a>
 </p>
 
 ---
 
-<p align="center" style="color:#00f0ff; font-size:18px;">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="90" alt="Gamer Cat" /><br>
-  Press <b style="color:#ff00ff;">START</b> to continue coding...
-</p>
+<p align="center"><b><code>&gt; SYSTEM ONLINE_</code></b></p>
+<p align="center"><i>Building real-world web applications. Solving complex problems. Shipping better experiences.</i></p>
+
+## `01 / PLAYER PROFILE` 🕹️
+
+Hey! I'm **Cristian**, a frontend-focused software developer based in **Mendoza, Argentina** 🇦🇷.
+
+I build and maintain production web applications with **React, Next.js and TypeScript**, and I also work across the stack with **.NET**. My focus is on clean architecture, reusable components, complex user flows and intuitive user experiences.
+
+```ts
+const player = {
+  name: "Cristian Fernández",
+  role: "Frontend Engineer",
+  location: "Mendoza, Argentina",
+  mainStack: ["React", "Next.js", "TypeScript"],
+  alsoWorksWith: [".NET", "Node.js", "Azure DevOps"],
+  playstyle: "Build thoughtfully. Ship reliably.",
+  nextQuest: "Better, scalable web experiences",
+};
+```
+
+## `02 / TECH LOADOUT` ⚔️
+
+| Loadout | Equipped skills |
+|:--|:--|
+| 🎯 **Primary weapons** | TypeScript · JavaScript · React · Next.js |
+| 🧩 **UI toolkit** | HTML · CSS · SCSS · Ant Design · Responsive Design |
+| 🧠 **State management** | Zustand · Redux Toolkit |
+| 🔌 **Full-stack support** | .NET · Node.js · Express · REST APIs |
+| 🚀 **Build & delivery** | Git · GitHub · Azure Repos · Azure DevOps · CI/CD |
+| 🤖 **AI-assisted workflows** | Codex · Claude Code · OpenCode · Spec-Driven Development |
+
+## `03 / ACHIEVEMENTS UNLOCKED` 🏆
+
+*Real production experience — not fictional game stats.*
+
+| Achievement | Experience unlocked |
+|:--|:--|
+| 🏗️ **Multi-app builder** | Developed features for three React / Next.js web applications. |
+| 🧭 **Workflow architect** | Built multi-step wizards, resumable processes, conditional forms and state management. |
+| 🧰 **UI systems crafter** | Created reusable forms, tables, modals, guided experiences and dashboards. |
+| 🔗 **Integration specialist** | Connected frontend workflows to backend services and .NET-based functionality. |
+| 🛡️ **Production-ready mindset** | Worked with releases, branching strategies, Azure Repos and security improvements. |
+
+> **Playstyle:** pragmatic problem-solving, maintainable code, reusable components and a sharp eye for UX.
+
+## `04 / QUEST BOARD` 🗺️
+
+Instead of unreliable contribution charts, here's what I'm focused on:
+
+| Current quest | Mission objective |
+|:--|:--|
+| ⚡ **Frontend architecture** | Build scalable interfaces and keep complex flows easy to maintain. |
+| 🎨 **User experience** | Make sophisticated products feel simple and intuitive. |
+| 🧱 **Reusable systems** | Design components and patterns that teams can confidently extend. |
+| 🤖 **AI-powered development** | Explore better workflows with coding agents and spec-driven approaches. |
+
+<details>
+<summary><b>🎁 BONUS LEVEL — Open the developer console</b></summary>
+
+```text
+> initialize player_01
+[OK]  Frontend engineering
+[OK]  Full-stack collaboration
+[OK]  Production delivery
+[OK]  Continuous learning
+
+> next_mission
+Build something useful. Make it reliable.
+```
+
+</details>
+
+## `05 / MULTIPLAYER LOBBY` 📡
+
+**Open to connecting with teams and developers** building impactful products, especially around **remote frontend and full-stack opportunities**.
+
+- 💼 **LinkedIn:** [linkedin.com/in/cristianfernandez99](https://www.linkedin.com/in/cristianfernandez99/)
+- 📬 **Email:** [cristiannokk@gmail.com](mailto:cristiannokk@gmail.com)
+- 👾 **Projects:** [github.com/cristiannokk](https://github.com/cristiannokk?tab=repositories)
+
+---
+
+<h3 align="center">🎮 GAME SAVED ✓</h3>
+<p align="center"><b>Thanks for visiting my profile.</b></p>
+<p align="center"><code>PRESS START → BUILD SOMETHING GREAT</code></p>
